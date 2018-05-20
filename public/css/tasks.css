@@ -1,0 +1,58 @@
+.container {
+    width: 70%;
+    border: 2px solid #dddddd;
+    padding: 20px;
+    margin: auto;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 90%;
+    margin: 30px;
+    }
+
+td {
+    border: 2px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    border: 2px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    background-color: #abb0ba;
+}
+
+.completedTask {
+    text-decoration: line-through;
+}
+
+.form {
+    border: 2px solid #dddddd;
+    padding: 10px;
+    margin: 30px;
+    width: 40%;
+}
+
+.form-group {
+    margin: 10px;
+}
+
+.showCompleated {
+    float: right
+}
+
+.errorMessageBox {
+    padding: 20px;
+}
+
+.btn-right {
+    float: right;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
